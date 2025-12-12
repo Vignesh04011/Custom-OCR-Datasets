@@ -1,4 +1,4 @@
-# Custom-OCR-Datasets-link
+# Custom-OCR-Datasets
 This repository includes datasets for training my Custom OCR for my Intelligent Answers Sheet project
 
 TEKLIA
